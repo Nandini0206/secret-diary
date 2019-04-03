@@ -13,5 +13,5 @@ class SecretDiary
 
   def get_entries
   end
-s
+
 end
