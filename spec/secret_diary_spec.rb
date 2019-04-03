@@ -24,4 +24,10 @@ describe "get entry method" do
   it "retrieves an entry" do
   expect(secret_diary.get_entries).to eq "Entry retrieved"
   end
+
+  describe "check diary is locked" do
+    it "returns true if diary is locked" do
+      expect(secret_diary.locked?).to eq true
+    end
+  end
 end
