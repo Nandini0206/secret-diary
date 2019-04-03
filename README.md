@@ -19,6 +19,9 @@ When the user calls `lock` again they throw errors again.
 2. Create a lib and spec folders with ruby files within
 3. Organise code given into one class only
 4. Create test file in the spec folder
-5. Write code for lock/unlock method and run test
-6. Refactor code for lock/unlock method and run test again
-7. 
+5. Write code for methods and run test
+6. Refactor code for methods and run test again until all green
+7. Initialise the diary to be locked at the start
+8. Create a method to show if the diary is locked
+9. 'Add_entry' and 'get_entries' should throw and error when locked.
+10. 
