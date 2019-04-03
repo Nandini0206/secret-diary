@@ -19,4 +19,6 @@ When the user calls `lock` again they throw errors again.
 2. Create a lib and spec folders with ruby files within
 3. Organise code given into one class only
 4. Create test file in the spec folder
-5. 
+5. Write code for lock/unlock method and run test
+6. Refactor code for lock/unlock method and run test again
+7. 
