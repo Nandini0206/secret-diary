@@ -1,4 +1,4 @@
-### Secret Diary Exercise
+# Secret Diary Exercise
 
 ```
 SecretDiary
@@ -13,7 +13,7 @@ When the user calls `unlock`, `add_entry` and `get_entries` should work as desir
 
 When the user calls `lock` again they throw errors again.
 ```
-## Steps
+# Steps
 
 1. Connect the git repo to local repo
 2. Create a lib and spec folders with ruby files within
